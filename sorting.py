@@ -34,4 +34,4 @@ def selectionSort():
         data[i] = data[min_number]
         data[min_number] = tmp
     print("selectionSort = %s" % data)   
-selectionSort()
+#selectionSort()
