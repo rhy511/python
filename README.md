@@ -1,4 +1,4 @@
-Python練習檔案
+#Python練習檔案
 ＝＝＝＝＝＝＝＝
 
 * sorting.py
