@@ -1,5 +1,7 @@
-#Python練習檔案
-＝＝＝＝＝＝＝＝
+# Python練習檔案
+--------------
+
+
 
 * sorting.py
   * 氣泡排序法(bubbleSort)
